@@ -1,0 +1,23 @@
+body {
+  background: #231F00;
+}
+
+.header {
+  font-family: 'Roboto', sans-serif;
+  z-index: 100;
+  color: white;
+  font-size: 32px;
+  letter-spacing: 0.3em;
+  margin-top: 350px;
+  margin-left: 560px;
+}
+
+.occupation {
+  font-family: 'Roboto', sans-serif;
+  z-index: 100;
+  color: white;
+  font-size: 15px;
+  margin-left: 587px;
+  letter-spacing: 0.3em;
+  margin-top: 30px;
+}
