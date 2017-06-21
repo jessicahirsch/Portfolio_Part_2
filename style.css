@@ -47,6 +47,16 @@ body {
   100% { color: transparent; }
 }
 
+.construction {
+  font-family: 'Roboto', sans-serif;
+  z-index: 100;
+  color: white;
+  font-size: 10px;
+  letter-spacing: 0.3em;
+  text-align: center;
+  margin-top: 250px;
+}
+
 .arrow-down {
   text-decoration: none;
   text-align: center;
